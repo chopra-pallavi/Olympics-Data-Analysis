@@ -1,0 +1,9 @@
+{
+	"name": "olympic-df21",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dbc13a3d-3b2d-4fc7-a3a1-19bff3f743b2",
+		"tenantId": "c3d53147-5c2f-4fb4-8347-d47f37cce9ff"
+	}
+}
